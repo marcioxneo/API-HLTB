@@ -1,0 +1,27 @@
+{
+  "name": "API-HLTB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcioxneo/API-HLTB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcioxneo/API-HLTB/issues"
+  },
+  "homepage": "https://github.com/marcioxneo/API-HLTB#readme",
+  "dependencies": {
+    "howlongtobeat": "^1.2.2",
+    "next": "^10.0.6",
+    "nextjs": "0.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}

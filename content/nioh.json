@@ -1,0 +1,252 @@
+[
+    {
+        "id": "36936",
+        "name": "Nioh",
+        "description": "",
+        "playableOn": [],
+        "imageUrl": "https://howlongtobeat.com/games/36936_Nioh.jpg",
+        "timeLabels": [
+            [
+                "gameplayMain",
+                "Main Story"
+            ],
+            [
+                "gameplayMainExtra",
+                "Main + Extra"
+            ],
+            [
+                "gameplayCompletionist",
+                "Completionist"
+            ]
+        ],
+        "gameplayMain": 35.5,
+        "gameplayMainExtra": 63.5,
+        "gameplayCompletionist": 94,
+        "similarity": 1
+    },
+    {
+        "id": "50419",
+        "name": "Nioh Complete Edition",
+        "description": "",
+        "playableOn": [],
+        "imageUrl": "https://howlongtobeat.com/games/50419_Nioh_Complete_Edition.jpg",
+        "timeLabels": [
+            [
+                "gameplayMain",
+                "Main Story"
+            ],
+            [
+                "gameplayMainExtra",
+                "Main + Extra"
+            ],
+            [
+                "gameplayCompletionist",
+                "Completionist"
+            ]
+        ],
+        "gameplayMain": 45,
+        "gameplayMainExtra": 81,
+        "gameplayCompletionist": 145,
+        "similarity": 0.19
+    },
+    {
+        "id": "60877",
+        "name": "Nioh 2",
+        "description": "",
+        "playableOn": [],
+        "imageUrl": "https://howlongtobeat.com/games/60877_Nioh_2.jpg",
+        "timeLabels": [
+            [
+                "gameplayMain",
+                "Main Story"
+            ],
+            [
+                "gameplayMainExtra",
+                "Main + Extra"
+            ],
+            [
+                "gameplayCompletionist",
+                "Completionist"
+            ]
+        ],
+        "gameplayMain": 44.5,
+        "gameplayMainExtra": 73,
+        "gameplayCompletionist": 104,
+        "similarity": 0.67
+    },
+    {
+        "id": "85713",
+        "name": "Nioh 2 Complete Edition",
+        "description": "",
+        "playableOn": [],
+        "imageUrl": "https://howlongtobeat.com/games/85713_Nioh_2_Complete_Edition.jpg",
+        "timeLabels": [
+            [
+                "gameplayMain",
+                "Main Story"
+            ],
+            [
+                "gameplayMainExtra",
+                "Main + Extra"
+            ],
+            [
+                "gameplayCompletionist",
+                "Completionist"
+            ]
+        ],
+        "gameplayMain": 33,
+        "gameplayMainExtra": 0,
+        "gameplayCompletionist": 121,
+        "similarity": 0.17
+    },
+    {
+        "id": "84043",
+        "name": "Nioh 2  Darkness in the Capital",
+        "description": "",
+        "playableOn": [],
+        "imageUrl": "https://howlongtobeat.com/games/84043_Nioh_2_-_Darkness_in_the_Capital.jpg",
+        "timeLabels": [
+            [
+                "gameplayMain",
+                "Main Story"
+            ],
+            [
+                "gameplayMainExtra",
+                "Main + Extra"
+            ],
+            [
+                "gameplayCompletionist",
+                "Completionist"
+            ]
+        ],
+        "gameplayMain": 0,
+        "gameplayMainExtra": 10.5,
+        "gameplayCompletionist": 13.5,
+        "similarity": 0.13
+    },
+    {
+        "id": "85711",
+        "name": "Nioh 2  The First Samurai",
+        "description": "",
+        "playableOn": [],
+        "imageUrl": "https://howlongtobeat.com/games/85711_Nioh_2_-_The_First_Samurai.jpg",
+        "timeLabels": [
+            [
+                "gameplayMain",
+                "Main Story"
+            ],
+            [
+                "gameplayMainExtra",
+                "Main + Extra"
+            ],
+            [
+                "gameplayCompletionist",
+                "Completionist"
+            ]
+        ],
+        "gameplayMain": 0,
+        "gameplayMainExtra": 8.5,
+        "gameplayCompletionist": 0,
+        "similarity": 0.16
+    },
+    {
+        "id": "81537",
+        "name": "Nioh 2  The Tengus Disciple",
+        "description": "",
+        "playableOn": [],
+        "imageUrl": "https://howlongtobeat.com/games/81537_Nioh_2_-_The_Tengus_Disciple.jpg",
+        "timeLabels": [
+            [
+                "gameplayMain",
+                "Main Story"
+            ],
+            [
+                "gameplayMainExtra",
+                "Main + Extra"
+            ],
+            [
+                "gameplayCompletionist",
+                "Completionist"
+            ]
+        ],
+        "gameplayMain": 0,
+        "gameplayMainExtra": 9,
+        "gameplayCompletionist": 9,
+        "similarity": 0.15
+    },
+    {
+        "id": "50087",
+        "name": "Nioh  Bloodsheds End DLC",
+        "description": "",
+        "playableOn": [],
+        "imageUrl": "https://howlongtobeat.com/games/50087_Nioh_-_Bloodsheds_End_DLC.jpg",
+        "timeLabels": [
+            [
+                "gameplayMain",
+                "Main Story"
+            ],
+            [
+                "gameplayMainExtra",
+                "Main + Extra"
+            ],
+            [
+                "gameplayCompletionist",
+                "Completionist"
+            ]
+        ],
+        "gameplayMain": 6,
+        "gameplayMainExtra": 10.5,
+        "gameplayCompletionist": 16,
+        "similarity": 0.17
+    },
+    {
+        "id": "47796",
+        "name": "Nioh  Defiant Honor DLC",
+        "description": "",
+        "playableOn": [],
+        "imageUrl": "https://howlongtobeat.com/games/47796_Nioh_-_Defiant_Honor_DLC.jpg",
+        "timeLabels": [
+            [
+                "gameplayMain",
+                "Main Story"
+            ],
+            [
+                "gameplayMainExtra",
+                "Main + Extra"
+            ],
+            [
+                "gameplayCompletionist",
+                "Completionist"
+            ]
+        ],
+        "gameplayMain": 5.5,
+        "gameplayMainExtra": 9.5,
+        "gameplayCompletionist": 15,
+        "similarity": 0.17
+    },
+    {
+        "id": "46360",
+        "name": "Nioh  Dragon of the North DLC",
+        "description": "",
+        "playableOn": [],
+        "imageUrl": "https://howlongtobeat.com/games/46360_Nioh_-_Dragon_of_the_north_DLC.jpg",
+        "timeLabels": [
+            [
+                "gameplayMain",
+                "Main Story"
+            ],
+            [
+                "gameplayMainExtra",
+                "Main + Extra"
+            ],
+            [
+                "gameplayCompletionist",
+                "Completionist"
+            ]
+        ],
+        "gameplayMain": 8.5,
+        "gameplayMainExtra": 10,
+        "gameplayCompletionist": 11,
+        "similarity": 0.14
+    }
+]
