@@ -50,6 +50,22 @@
   padding: 20px;
 }
 
+/* .header > a {
+  color: white;
+  text-decoration: none;
+} */
+
+.header > a > img {
+  max-width: 64px;
+  max-height: 64px;
+  display: block;
+}
+
+.header > nav > ul > li > a {
+  color: white;
+  text-decoration: none;
+}
+
 .menu {
   display: flex;
 }
@@ -85,7 +101,7 @@
 }
 
 .flex > div > p {
-  text-align: center;
+  text-align: left;
 }
 
 .grid1 {

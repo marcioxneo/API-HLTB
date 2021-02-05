@@ -3,6 +3,8 @@ import styles from '../component/layout'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 import id from '../component/list'
+const logo = "../images/ps4.png"
+
 const nioh = require('../content/nioh.json')
 const cod= []
 const cod_ =[]
@@ -70,13 +72,18 @@ function Games() {
       <div>
         <header className={utilStyles.header}>
           {/* <Link href="/"> */}
-            <a href='/'>Logo</a>
+            <a href='/'>
+              <img className={utilStyles.logo} 
+              src={logo} />
+            </a>
             <nav>
+              {/* <Link href='/'> */}
               <ul className={utilStyles.menu}>
                   <li><a href='/'>Sobre</a></li>
                   <li><a href='/'>Pesquisa</a></li>
                   <li><a href='/'>Contato</a></li>
               </ul>
+              {/* </Link> */}
             </nav>
           {/* </Link> */}
         </header>

@@ -15,7 +15,7 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         {home ? (
           <>
-            <img src='/'
+            <img src='/images/ps4.png'
             className={`${styles.headerHomImage} ${utilStyles.borderCicle}`}
             alt={name}
             />
