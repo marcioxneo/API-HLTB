@@ -80,7 +80,8 @@ function Games() {
             </nav>
           {/* </Link> */}
         </header>
-        <section className={utilStyles.poster}>
+        
+        {/* <section className={utilStyles.poster}>
           <img src={gameImage[0]} />
           <img src={gameImage[1]} />
           <img src={gameImage[2]} />
@@ -99,8 +100,128 @@ function Games() {
         <h1>{gameID[2]} - Codigo</h1>
         <h1>Testeoi - Texto</h1>
         <h1>{gameNome[0]}</h1>
+        </section> */}
+        <h1>NIOH FLEXBOX</h1>
+
+        <section className={utilStyles.flex}>
+          <div>
+            <img src={gameImage[0]} />
+            <p>{gameNome[0]}</p>
+          </div>
+          <div>
+            <img src={gameImage[1]} />
+            <p>{gameNome[1]}</p>
+          </div>
+          <div>
+            <img src={gameImage[2]} />
+            <p>{gameNome[2]}</p>
+          </div>
+          <div>
+            <img src={gameImage[3]} />
+            <p>{gameNome[3]}</p>
+          </div>
+          <div>
+            <img src={gameImage[4]} />
+            <p>{gameNome[4]}</p>
+          </div>
+          <div>
+            <img src={gameImage[5]} />
+            <p>{gameNome[5]}</p>
+          </div>
         </section>
-      </div>
+
+        <h1>NIOH GRID 1</h1>
+
+        <section className={utilStyles.grid1}>
+          <div>
+            <img src={gameImage[0]} />
+            <p>{gameNome[0]}</p>
+          </div>
+          <div>
+            <img src={gameImage[1]} />
+            <p>{gameNome[1]}</p>
+          </div>
+          <div>
+            <img src={gameImage[2]} />
+            <p>{gameNome[2]}</p>
+          </div>
+          <div>
+            <img src={gameImage[3]} />
+            <p>{gameNome[3]}</p>
+          </div>
+          <div>
+            <img src={gameImage[4]} />
+            <p>{gameNome[4]}</p>
+          </div>
+          <div>
+            <img src={gameImage[5]} />
+            <p>{gameNome[5]}</p>
+          </div>
+          <div>
+            <img src={gameImage[6]} />
+            <p>{gameNome[6]}</p>
+          </div>
+          <div>
+            <img src={gameImage[7]} />
+            <p>{gameNome[7]}</p>
+          </div>
+          <div>
+            <img src={gameImage[8]} />
+            <p>{gameNome[8]}</p>
+          </div>
+          <div className={utilStyles.anuncio}>
+            <img src={gameImage[9]} />
+            <p>{gameNome[9]}</p>
+          </div>
+        </section>
+
+        <h1>NIOH GRID 2</h1>
+
+        <section className={utilStyles.grid2}>
+
+          <div className={utilStyles.video}>
+            <img src={gameImage[0]} />
+            <h2>{gameNome[0]}</h2>
+          </div>
+
+          <div className={utilStyles.sidebar}>
+            <div>
+              <img src={gameImage[1]} />
+              <p>{gameNome[1]}</p>
+            </div>
+            <div>
+              <img src={gameImage[2]} />
+              <p>{gameNome[2]}</p>
+            </div>
+              <div>
+              <img src={gameImage[3]} />
+              <p>{gameNome[3]}</p>
+            </div>
+            <div>
+              <img src={gameImage[4]} />
+              <p>{gameNome[4]}</p>
+            </div>
+          </div>
+
+        </section>
+
+        <h1>NIOH GRID 3</h1>
+
+        <section className={utilStyles.grid3}>
+          <div className={utilStyles.grid3_Item}>
+            <img src={gameImage[2]} />
+            <p>{gameNome[2]}</p>
+          </div>
+          <div className={utilStyles.grid3_Item}>
+            <img src={gameImage[2]} />
+            <p>{gameNome[2]}</p>
+          </div>
+          <div className={utilStyles.grid3_Item}>
+            <img src={gameImage[2]} />
+            <p>{gameNome[2]}</p>
+          </div>
+        </section>
+      </div> 
 
     </div>
   )
